@@ -1,3 +1,2 @@
 # hello-world
-just another repository
-Let battle commence
+just another repository Let battle commence
